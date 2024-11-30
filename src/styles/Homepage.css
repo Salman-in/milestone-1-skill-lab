@@ -29,10 +29,10 @@
 
 .menu-item,
 .promotion-item {
-  border: 1px solid #e5f8bd;
+  border: 1px solid #d7e5bc;
   padding: 15px;
   border-radius: 8px;
-  background-color: #e5f8bd;
+  background-color: #d7e5bc;
 }
 
 .menu-item h3,
@@ -46,5 +46,5 @@
 }
 
 .homepage h2 {
-  color: #dbecc0;
+  color: #a3d499;
 }
