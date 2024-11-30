@@ -10,7 +10,7 @@ const Footer = () => {
         <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
       </div>
       <div className="copyright">
-        <p>&copy; Our Restaurant . All Rights Reserved.</p>
+        <p>&copy; Our Restaurant 2024. All Rights Reserved.</p>
       </div>
     </footer>
   );
